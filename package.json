@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "mockbird-node-functions",
   "version": "1.0.0",
   "description": "",
   "main": "dist/functions/*.js",
